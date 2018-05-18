@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="./assets/dreamer-idea.png" width="86" height="86" />
+  <img src="https://github.com/dreamer-idea/idea/blob/master/assets/dreamer-idea.png?raw=true" width="86" height="86" />
   <h3 align="center">各行各业创意收集</h3>
 </p>
 
 收集各种创意、创意工具、创意思路等，欢迎分享提交各行各业创意及周边相关信息！
-
-**方式**
-
-* github提交issue
 
 ----
 

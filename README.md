@@ -20,11 +20,13 @@
 |----          |----        |----         |----         |----     |
 |创意收集站      |收集创意的地方    |dreamer-idea@hotmail.com   |2018-05-18     |       |
 
+- `2018-05-18` [phodal/ideas](https://github.com/phodal/ideas)
 
 ## <a name="tools"></a>工具
 
 ### 2018年
 
+- `2018-05-21` [在线作图](https://processon.com/) (推荐 可以搜索 可以按点赞人数排序 看些优秀的脑图)
 - `2018-05-18` [石墨文档](https://shimo.im/) (作者用于记录创意思路、生活工作待办事项等)
 - `2018-05-18` [墨刀-产品原型工具](https://modao.cc/)
 - `2018-05-18` [yeelogo-LOGO在线制作](http://yeelogo.com)
@@ -34,6 +36,7 @@
 
 ### 2018年
 
+- `2018-05-18` [如何用github去管理你的Idea](https://juejin.im/entry/567b362400b042c091f1aaca)
 - `2018-05-18` [创意工坊-微博](https://weibo.com/gongfang?is_all=1)
 - `2018-05-18` [一张纸能做出什么-知乎](https://www.zhihu.com/question/35104273/answer/391483034)
 - `2018-05-18` [创意话题-知乎](https://www.zhihu.com/topic/19556774/hot)
